@@ -14,7 +14,12 @@
       "openFiles": [
         "src/App.js"
       ]
-    }
+	},
+	"vscode": {
+		"extensions": [
+			"vsls-contrib.codetour"
+		]
+	}
   },
   "portsAttributes": {
     "3000": {
