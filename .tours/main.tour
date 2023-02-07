@@ -1,0 +1,25 @@
+{
+  "$schema": "https://aka.ms/codetour-schema",
+  "title": "Navigate your first Codespace",
+  "steps": [
+    {
+      "title": "Introduction",
+      "description": "Hey! 👋 You've opened your first GitHub Codespaces template. This template is written in React. To get familiar with the code, we'll ask you to edit it! But don't worry, we'll give you directions each step of the way\n\nClick the `Next` link below to keep learning 👇"
+    },
+    {
+      "file": "src/App.js",
+      "line": 29,
+      "description": "Our app says GitHub Codespaces loves React, but we know you love React, too! \n\nLine 9 currently says:\n\n`<p> GitHub Codespaces <span className='heart'>♥️</span> React </p>`  \n\nInstead, update the line 9 to say:\n\n`<p> @Your_username_here <span className='heart'>♥️</span> React </p>`\n\nSave your changes and then click `Next` to move forward. ⬇️"
+    },
+    {
+      "file": "src/App.css",
+      "line": 11,
+      "description": "Great job at updating the words on your web app. Now let's update the background colors for this app. On line 11, the background color is currently `#282c34`, which is the color code for dark grey. Let's update it to `purple`.\n\nDon't forget to press save and check your updated changes in the browser! 💜"
+    },
+    {
+      "title": "Completed",
+      "description": "Mission complete! You added code to you first GitHub Codespace. Feel free to continue experimenting.\n\nBonus tip: If you click the three-dot menu associated with your current Codespace, you will see the option to 'Publish Codespace'. Once you publish your current codespace, you can share it with friends to show off your awesome creation!"
+    }
+  ],
+  "isPrimary": true
+}
