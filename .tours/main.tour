@@ -8,7 +8,7 @@
     },
     {
       "file": "src/App.js",
-      "line": 29,
+      "line": 9,
       "description": "Our app says GitHub Codespaces loves React, but we know you love React, too! \n\nLine 9 currently says:\n\n`<p> GitHub Codespaces <span className='heart'>♥️</span> React </p>`  \n\nInstead, update the line 9 to say:\n\n`<p> @Your_username_here <span className='heart'>♥️</span> React </p>`\n\nSave your changes and then click `Next` to move forward. ⬇️"
     },
     {
