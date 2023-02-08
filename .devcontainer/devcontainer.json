@@ -17,7 +17,8 @@
 	},
 	"vscode": {
 		"extensions": [
-			"vsls-contrib.codetour"
+			"vsls-contrib.codetour",
+			"gabrielgrinberg.auto-run-command"
 		]
 	}
   },
