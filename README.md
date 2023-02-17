@@ -58,7 +58,7 @@ There's always room for improvement in any project.
 
 - If you have a solution, feel free to open a pull request. 
 
-Learn how in the Contributing Guidelines.
+Learn how in the [Contributing Guidelines](https://github.com/github/codespaces-learn-with-me/blob/main/CONTRIBUTING.md).
 
 ## Badges
 
