@@ -1,0 +1,22 @@
+---
+version: 1
+ownership:
+# ownership.yaml describes who is responsible for a service, and how to contact them. If your service is made up
+# of multiple components, you can define multiple entries in this file.
+#
+# Additional documentation on ownership.yaml fields is available at: https://thehub.github.com/engineering/products/service-catalog/service-ownership/#attributes-of-durable-ownership
+# Questions? Ask in #sre on Slack.
+- team: github/devrel
+  repo: https://github.com/github/codespaces-learn-with-me
+  name: codespaces-learn-with-me
+  kind: moda
+  long_name: Codespaces Learn with Me
+  description: This is a Codespaces React template that leverages a Code Tour to guide beginners through writing their first lines of React.
+  maintainer: blackgirlbytes
+  exec_sponsor: martinwoodward
+  product_manager: thisiskirsch
+  qos: experimental
+  tier: 3
+  sev3:
+    slack: developer-relations
+    issue: https://github.com/github/codespaces-learn-with-me/issues
