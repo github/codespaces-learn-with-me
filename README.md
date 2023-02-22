@@ -3,15 +3,37 @@
 
 Welcome to your first Codespace running a popular UI framework called React! We've got everything fired up and running for you to explore React and Codespaces for the first time.
 
-## Your first Codespace
 
+A template for your project README.
+
+## License 
+
+This project is licensed under the terms of the MIT open source license. Please refer to [MIT](./LICENSE.md) for the full terms.
+
+## Maintainers 
+
+Please see [CODEOWNERS](./github/CODEOWNERS).
+
+## Support
+
+Please see [CODEOWNERS](./SUPPORT.md).
+
+## Room for Improvement
+
+There's always room for improvement in any project. 
+
+- If you have a suggestion feel free to [open an issue](https://github.com/github/codespaces-learn-with-me/issues/new). 
+
+- If you have a solution, feel free to open a pull request. 
+
+Learn how in the [Contributing Guidelines](https://github.com/github/codespaces-learn-with-me/blob/main/CONTRIBUTING.md).
+
+## How to Use
+
+### Open in Codespace
 Once our codespace is fully loaded, you will see a live preview of your web app on a tab titled "Simple Browser." (If you don’t see the “Simple Browser” tab yet, give it a few minutes to load.) It should look like the image below:
 
 <img width="1505" alt="Screen Shot 2023-02-02 at 10 21 55 PM" src="https://user-images.githubusercontent.com/22990146/219676048-6fe22c06-f84e-4aac-953b-1e28481570d3.png">
-
-
-## Let’s start coding!
-
 
 ### Change some words
 
@@ -49,17 +71,3 @@ The background color for the React app is currently gray. Gray might be someone�
 The final version should resemble the image below:
 
 <img width="1506" alt="Screen Shot 2023-02-02 at 10 44 26 PM" src="https://user-images.githubusercontent.com/22990146/219675851-6e5449d4-cb5d-4576-8e6f-1f5c73b88fae.png">
-
-## Room for Improvement
-
-There's always room for improvement in any project. 
-
-- If you have a suggestion feel free to [open an issue](https://github.com/github/codespaces-learn-with-me/issues/new). 
-
-- If you have a solution, feel free to open a pull request. 
-
-Learn how in the [Contributing Guidelines](https://github.com/github/codespaces-learn-with-me/blob/main/CONTRIBUTING.md).
-
-## Badges
-
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
