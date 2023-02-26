@@ -16,7 +16,7 @@ Please see [CODEOWNERS](CODEOWNERS).
 
 ## Support
 
-Please see [SUPPORT](./SUPPORT.md).
+Please see [SUPPORT](SUPPORT.md).
 
 ## Room for Improvement
 
