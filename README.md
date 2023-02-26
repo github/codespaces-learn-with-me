@@ -8,7 +8,7 @@ A template for your project README.
 
 ## License 
 
-This project is licensed under the terms of the MIT open source license. Please refer to [MIT](./LICENSE.md) for the full terms.
+This project is licensed under the terms of the MIT open source license. Please refer to [MIT](https://github.com/github/codespaces-learn-with-me/blob/main/LICENSE.MD) for the full terms.
 
 ## Maintainers 
 
@@ -16,7 +16,7 @@ Please see [CODEOWNERS](CODEOWNERS).
 
 ## Support
 
-Please see [SUPPORT](./SUPPORT.md).
+Please see [SUPPORT](https://github.com/github/codespaces-learn-with-me/blob/main/SUPPORT.MD).
 
 ## Room for Improvement
 
