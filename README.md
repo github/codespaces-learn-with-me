@@ -12,11 +12,11 @@ This project is licensed under the terms of the MIT open source license. Please 
 
 ## Maintainers 
 
-Please see [CODEOWNERS](./github/CODEOWNERS).
+Please see [CODEOWNERS](CODEOWNERS).
 
 ## Support
 
-Please see [CODEOWNERS](./SUPPORT.md).
+Please see [SUPPORT](./SUPPORT.md).
 
 ## Room for Improvement
 
