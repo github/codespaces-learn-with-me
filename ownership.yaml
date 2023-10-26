@@ -12,7 +12,7 @@ ownership:
   kind: moda
   long_name: Codespaces Learn with Me
   description: This is a Codespaces React template that leverages a Code Tour to guide beginners through writing their first lines of React.
-  maintainer: blackgirlbytes
+  maintainer: ladykerr
   exec_sponsor: martinwoodward
   product_manager: thisiskirsch
   qos: experimental
